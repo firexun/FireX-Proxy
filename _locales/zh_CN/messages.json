@@ -21,10 +21,10 @@
     "message": "禁用"
   },
   "conflict": {
-    "message": "禁用有衝突的擴展？"
+    "message": "禁用有冲突的扩展？"
   },
   "conflict_resolve": {
-    "message": "解決衝突"
+    "message": "解決冲突"
   },
   "protocol": {
     "message": "协议"
@@ -45,43 +45,43 @@
     "message": "添加新代理"
   },
   "details": {
-    "message": "細節"
+    "message": "细节"
   },
   "hostname": {
-    "message": "主機名"
+    "message": "主机名"
   },
   "port": {
-    "message": "港口"
+    "message": "端口"
   },
   "credentials": {
-    "message": "憑證（可選）"
+    "message": "凭证（可选）"
   },
   "username": {
-    "message": "用戶名"
+    "message": "用户名"
   },
   "password": {
-    "message": "密碼"
+    "message": "密码"
   },
   "create": {
     "message": "加"
   },
   "reset": {
-    "message": "明確"
+    "message": "明确"
   },
   "required_validation": {
     "message": "需要"
   },
   "port_validation": {
-    "message": "端口必須為0-65535"
+    "message": "端口必须为0-65535"
   },
   "prompt_header": {
-    "message": "其他權限"
+    "message": "其他权限"
   },
   "prompt_footer": {
     "message": "FireX Proxy opened this window due to security restrictions in Firefox. Additional permissions are needed to use your own proxies for all websites."
   },
   "allow_permissions_button": {
-    "message": "允許"
+    "message": "允许"
   },
   "cancel_permissions_button": {
     "message": "取消"
