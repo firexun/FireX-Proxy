@@ -33,7 +33,7 @@
     "message": "搜索"
   },
   "blacklist_tip": {
-    "message": "Add a domain name to this list, then activate the blacklist by clicking on the switch at the top of this page. Proxy servers would be used only for entries from this list. Alternatively, you can use domain mask when you're adding a new entry. For example, example* will match all websites which starts with «example» (example.com, example.org)."
+    "message": "将域名添加到这个清单, 然后点击这个页面顶端的开关启用黑名单。代理只会用于此清单中的条目。或者，您可以在加入新条目时使用适配符。例如example*会匹配example开头的所有域名（example.com,example.org）。"
   },
   "home": {
     "message": "代理列表"
@@ -45,7 +45,7 @@
     "message": "添加新代理"
   },
   "details": {
-    "message": "细节"
+    "message": "详细资料"
   },
   "hostname": {
     "message": "主机名"
@@ -63,13 +63,13 @@
     "message": "密码"
   },
   "create": {
-    "message": "加"
+    "message": "加入"
   },
   "reset": {
-    "message": "明确"
+    "message": "重置"
   },
   "required_validation": {
-    "message": "需要"
+    "message": "必要"
   },
   "port_validation": {
     "message": "端口必须为0-65535"
@@ -78,7 +78,7 @@
     "message": "其他权限"
   },
   "prompt_footer": {
-    "message": "FireX Proxy opened this window due to security restrictions in Firefox. Additional permissions are needed to use your own proxies for all websites."
+    "message": "因为 Firefox 的安全限制，FireX Proxy 打开这个窗口。 需要额外权限来让所有域名使用您自己的代理"
   },
   "allow_permissions_button": {
     "message": "允许"
@@ -87,39 +87,39 @@
     "message": "取消"
   },
   "authentication_support_warning": {
-    "message": "Your browser does not support SOCKS proxy authentication. Please accept our apologies for any inconvenience."
+    "message": "您的浏览器不支持SOCKS代理验证，如有不便，敬请谅解。"
   },
   "authentication": {
-    "message": "Sign up / Log in"
+    "message": "注册 / 登录"
   },
   "close": {
-    "message": "Close"
+    "message": "关闭"
   },
   "premium": {
-    "message": "Premium"
+    "message": "进阶版"
   },
   "days_left": {
-    "message": "Days left"
+    "message": "剩余天数"
   },
   "get_premium": {
-    "message": "Get Premium"
+    "message": "获得进阶版"
   },
   "change_user": {
-    "message": "Switch User"
+    "message": "切换用户"
   },
   "sign_in": {
-    "message": "Sign in"
+    "message": "登录"
   },
   "refresh_tooltip": {
-    "message": "Next proxy"
+    "message": "下一个代理"
   },
   "pros_alive": {
-    "message": "Hundreds of alive proxy"
+    "message": "数百个活跃的代理"
   },
   "pros_fast_servers": {
-    "message": "Crazy fast proxy servers"
+    "message": "网速极快"
   },
   "pros_bandwidth": {
-    "message": "Unlimited bandwidth"
+    "message": "无限带宽"
   }
 }
